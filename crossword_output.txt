@@ -1,0 +1,23 @@
+.    .    .    .    .    .    .    .    .    .    .    .
+.    .    .    .    .    .    .    .    .    .    .    .
+.    .    .    .    .    .    .    .    .    .    .    .
+N    T    .    .    .    .    .    .    .    .    .    .
+O    E    .    Z    .    S    .    .    .    .    .    .
+S    N    .    E    .    T    .    6    C    .    .    .
+I    D    I    R    F    A    .    9    H    .    .    .
+D    U    .    O    .    P    .    8    E    .    .    .
+E    L    .    M    .    E    .    1    E    .    .    .
+.    K    .    E    .    S    .    .    T    .    .    .
+N    A    R    A    H    T    I    L    A    R    U    M
+.    R    .    .    .    .    .    .    H    .    .    .
+
+Clues:
+EDISON: The inventor of the light bulb? (up at 8, 0)
+AFRIDI: Who hit the fastest 100 in ODI history? (left at 6, 5)
+TENDULKAR: Who has the most Test centuries? (down at 3, 1)
+MURALITHARAN: Which cricketer has the most wickets in ODIs? (left at 10, 11)
+STAPES: The smallest bone in the human body? (down at 4, 5)
+1896: In which year were the first modern Olympics held? (up at 8, 7)
+ZERO: In cricket, what is a 'duck'? (down at 4, 3)
+ROME: The capital of Italy? (down at 6, 3)
+CHEETAH: The fastest land animal? (down at 5, 8)
